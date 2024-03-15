@@ -1,0 +1,1 @@
+{"_id":{"$oid":"643d7b766bdcf02fa83de480"},"startDate":{"$date":{"$numberLong":"1681750598685"}},"PrivatePackage":{"$oid":"640b8168dd4d3632508387cc"},"trainer":{"$oid":"640643a1bb0c9404344d75eb"},"trainee":{"$oid":"643021467b756e0354e0aef1"},"endDate":{"$date":{"$numberLong":"1702832502884"}},"__v":{"$numberInt":"0"}}
